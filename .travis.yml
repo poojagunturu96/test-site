@@ -16,4 +16,4 @@ deploy:
   keep-history: true
   target_branch: site
   on:
-    branch: master
+    branch: main
