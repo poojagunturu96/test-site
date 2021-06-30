@@ -1,0 +1,12 @@
+.search-results {
+  // max-height: 90vh;
+  overflow-y: scroll;
+  margin-bottom: 16px;
+  background-color: $blue-lighter;
+  padding: 8px;
+}
+
+.search-results__item {
+  border-bottom: 1px solid gray;
+  margin-bottom: 16px;
+}

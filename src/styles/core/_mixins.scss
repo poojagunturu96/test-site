@@ -1,0 +1,39 @@
+@mixin media($breakpoint) {
+  @include media-breakpoint-up($breakpoint) {
+    @content;
+  }
+}
+
+@mixin print-hide() {
+  @media print {
+    display: none !important;
+  }
+}
+
+@mixin sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@mixin make-gutters() {
+  padding-right: math.div($grid-gutter-width, 2);
+  padding-left: math.div($grid-gutter-width, 2);
+
+  @include media(lg) {
+    padding-right: math.div($grid-gutter-width-lg, 2);
+    padding-left: math.div($grid-gutter-width-lg, 2);
+  }
+}
+
+@mixin make-container() {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: $container-max-width;
+  @include make-gutters;
+}

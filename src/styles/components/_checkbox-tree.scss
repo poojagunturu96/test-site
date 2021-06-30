@@ -1,0 +1,31 @@
+.rct-text {
+  align-items: flex-start;
+}
+
+.rct-icon-expand-close,
+.rct-icon-expand-open {
+  padding-top: 6px;
+}
+
+.active {
+  background-color: $blue-lighter;
+}
+
+.rct-node-clickable {
+  cursor: pointer;
+
+  &:hover {
+    background: rgba(229, 241, 250, 0.5);
+  }
+
+  &:focus {
+    outline: 0;
+    background: $blue-lighter;
+  }
+}
+
+label {
+  &:hover {
+    background: rgba(229, 241, 250, 0.5) !important;
+  }
+}

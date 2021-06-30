@@ -1,0 +1,61 @@
+.App {
+  @include media(lg) {
+    overflow: hidden;
+  }
+}
+
+.app-header {
+  background: $navy;
+}
+
+.app-header__wrap {
+  @include make-container;
+  display: flex;
+
+  @media print {
+    display: block;
+  }
+}
+
+.app-header__wrap--main {
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app-header__logo {
+  position: relative;
+  top: 1rem;
+  z-index: 2;
+
+  @media print {
+    float: right;
+  }
+}
+
+.app-header__title {
+  font-size: rem(24);
+  line-height: 1.4;
+  font-family: $font-family-serif;
+  color: $white;
+  margin: initial;
+
+  @include media(lg) {
+    font-size: rem(28);
+  }
+}
+
+.app-header__link {
+  color: $white;
+  text-decoration: none;
+
+  @media print {
+    display: block;
+    margin-top: $spacing-3;
+  }
+
+  &:hover {
+    text-decoration: underline;
+    color: $white;
+  }
+}

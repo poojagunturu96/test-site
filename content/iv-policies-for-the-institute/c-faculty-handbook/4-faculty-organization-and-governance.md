@@ -1,0 +1,144 @@
+---
+slug: "/pages/iv-policies-for-the-institute/c-faculty-handbook/4-faculty-organization-and-governance"
+date: "2021-05-01"
+title: "C.4. Faculty Organization and Governance"
+---
+
+**C.4.a. Faculty Assembly**  
+The Faculty Assembly consists of all regular faculty, excluding the VPAA, deans, and associate deans. Visiting faculty, research professors, adjunct faculty and professors emeritae/i are not members of the Faculty Assembly: they may attend the Assembly but are not eligible to vote.
+
+The role of the Faculty Assembly shall be to debate and discuss and vote (when is needed) such matters as may be referred to it from time to time by the Faculty Senate or by any member of the Faculty Assembly.
+
+The Faculty Assembly shall hold three meetings annually: the second week of the fall semester, the second week of the spring semester, and the next to last week of the spring semester.
+
+The meeting held the second week of the fall semester shall mark the start of the year for governance purposes. It shall be used to review the past year and lay out the objectives for the coming year. The last meeting of the spring semester shall also be used, in the last year of the year term of the Senate president, for the Faculty Assembly to elect a new Senate president. The Faculty Senate shall also present its report of activities and accomplishments at this meeting.
+
+The meetings held at the beginning of the fall semester and the end of the spring semester will be used for a report by the Faculty Senate, the standing committees and for faculty to present issues of concern.
+
+Special meetings of the Faculty Assembly may be called by the Senate president for the purpose set forth in the notice thereof. Such notice shall indicate the time and place of the special meeting.
+
+Special meetings of the Faculty Assembly may be called pursuant to a petition of more than one-fourth (¼) of the members of the Faculty Assembly. Such special meetings shall be held at the time and place indicated in the petition.
+
+**C.4.b. Representative to the Institute Board of Advisors**
+
+The faculty representative to the Board of Advisors in an ex officio member of the Faculty Senate. This representative is voted on by the Faculty Assembly from a pool of self- or other-nominations soliciated by the Faculty Senate. This representative normally serves a term of 3 years. Ex officio members must attend meetings when requested to by the Faculty Senate president on behalf of the Senate, and may vote to break a tie. Ex officio members of the Senate can attend Senate meetings more frequently than this, if they desire. Ex officio members may run to be directly elected members of the Senate after their term as ex officio members has expired.
+
+<span style="text-decoration:line-through"></span>
+
+**C.4.c. Voting Procedures**
+
+A Faculty Assembly quorum shall consist of fifty percent (50%) of the eligible Faculty Assembly members (regular faculty plus multiyear visitors) plus one member. No votes may take place at a Faculty Assembly meeting without a quorum. In order to maximize participation, the Faculty Senate may take votes using a secret electronic ballot.
+
+The Faculty Assembly shall elect the Senate president, and the at-large member of both the Faculty Evaluation Committee and the Academic Policy, Standards and Instruction Committee, for three-year terms, and by a simple majority of those present and voting. Voting shall be by secret ballot.
+
+The Faculty Assembly may, by a two-thirds majority vote of all members, dissolve the Faculty Senate. Voting shall be by secret ballot.
+
+The Faculty Assembly, by a two-thirds majority vote of all members present and voting, may vote to reverse previous decisions made by the Assembly.
+
+The Faculty Assembly may, by a simple majority of those present and voting, designate an issue as “significant,” for the purpose of the Faculty Assembly’s taking up this issue. Any proposed resolutions that involve “significant” issues require a two-thirds majority of the Faculty Assembly present and voting to pass. Any such resolutions passed shall be binding upon the Faculty Senate.
+
+<span style="text-decoration:underline">_Dissolution of the Senate_</span>
+
+In the event that the Faculty Senate is dissolved, each school shall hold a special election to select its representatives, who shall take office upon election and serve the time remaining in the previous representatives’ terms.
+
+In the event that the Faculty Senate is dissolved, the Faculty Assembly shall set a date for the election of the Senate president, who shall serve a term of three (3) years beginning the first day of the month following election.
+
+**C.4.d. Faculty Senate**  
+The Faculty Senate is the principal representative of the faculty of the Middlebury Institute of International Studies at Monterey.
+
+Except as otherwise provided herein, the Faculty Senate shall have plenary power; that is, complete or full power to make decisions.
+
+The Faculty Senate is composed of the Senate president and three representatives from each school. Only regular faculty with multi-year contracts shall be eligible for election to the Faculty Senate.
+
+Each school shall elect three representatives to the Faculty Senate in a manner to be determined by that school’s regular faculty. The three members shall be from different programs within the school except when extraordinary circumstances make this impossible. The election of officers should be completed by July 1st, so that they can prepare to begin service in fall of the academic year.
+
+The term of a senator shall be three (3) years, beginning with her/his election prior to the meeting of the Faculty Assembly in the second week of the fall semester.
+
+A school shall have the right to remove one or more of its representatives to the Faculty Senate and to elect another representative to serve the time remaining in the previous representative's term, using a process agreed to by the school’s regular faculty.
+
+The Faculty Senate shall schedule open meetings at least once each semester and shall announce such open meetings in appropriate Institute publications*.* Any member of the Faculty Assembly may attend an open meeting. The Faculty Senate may hold closed meetings, at which attendance shall be by invitation only. The Faculty Senate may take action in closed meetings. Except as otherwise provided herein, meetings shall be conducted under _Robert's Rules of Order_ (latest edition). A quorum shall consist of a majority of the members of the Faculty Senate.
+
+Chairpersons of standing committees serve as ex-officio members of the Faculty Senate. They shall attend Senate meetings when requested to do so. The president of the Senate shall consult with the chair of the Faculty Evaluation Committee as needed. Decisions made by the Academic Policy, Standards and Instruction Committee, other than those that involve specific cases of violation of academic standards, are reviewed by the Senate president, who in turn may, when necessary, consult the Faculty Senate and school faculty members as appropriate.
+
+The VPAA shall meet at least once a term with the Faculty Senate and schedule more frequent meetings with its leadership.<span style="text-decoration:line-through"></span>
+
+The members of the Senate shall keep their school faculty regularly apprised of current academic policy issues, and receive feedback from them on matters of concern. On those issues for which the Senate desires a vote of the regular faculty, the regular faculty of each school will establish procedures for this purpose.
+
+In addition to its other responsibilities, the Faculty Senate:
+
+- nominates and elects retiring faculty members to emeritus status.
+- liaises with the leadership of student council.
+- liaises with the leadership of the Middlebury Faculty Council.
+- may nominate candidates for honorary degrees. For this purpose, the Faculty Senate shall operate under the general principle that honorary degrees are awarded to recognize individuals whose work exemplifies the qualities of intellect, character, and creativity most valued by the Institute; and to acknowledge individual accomplishments, especially academic accomplishments, and general contributions to society. These nominations may be forwarded to the VPAA and the president of Middlebury for consideration.
+- as needed, is responsible for drafting revisions to the Faculty Handbook, and ensuring that key stakeholders are consulted with, according to the linked document stipulating the process for handbook changes.
+
+**C.4.e. Senate Officers**  
+The president and vice-president of the Faculty Senate must be full-time regular faculty members.
+
+The Faculty Assembly shall elect the new Senate president at the meeting of the Faculty Assembly in the second week of the spring semester, thus permitting sufficient time for the relevant program and school to arrange for the president’s teaching load reduction. The term of the Senate president shall be three (3) years beginning on the first of July following election the previous semester.
+
+Once the Senate has been constituted in the second week of the fall semester (see above), it shall elect a vice-president to assist the president in the completion of all duties. The vice-president shall normally be from a different school than that of the president. The term of the Senate vice-president shall be three (3) years beginning on election by the Senate prior to the meeting of the Faculty Assembly in the second week of the fall semester.
+
+The president, assisted by the president-elect in years where one is training, attend leadership meetings organized by the administration, represent faculty in decisions on distributing faculty development funds, meet regularly with the VPAA, keep reccords of faculty decisions and votes, and orgnaize changes to the Faculty Handbook in consultation with Middlebury's Legal Council and Human Resources representatives as needed.
+
+There shall be a budget for those activities deemed necessary for the effective operation of the Faculty Senate, approved as part of the Institute’s normal budget process. The Faculty Senate president shall maintain an official presence in the form of an office, normally his/her personal faculty office. The vice-president shall assist the president in all duties and shall attend meetings as the representative of the Faculty Senate when the president is unable to do so.
+
+The president and vice-president of the Senate shall receive release time from teaching in agreement with the VPAA of the Institute. As with sabbatical leaves, release time for these positions is dependent on the ability of the school to continue its academic programs given the reduced teaching load of the president and vice-president of the Senate, and the requisite budgetary support. The Senate president may also request a work-study student for specific projects.
+
+The faculty representative to the Board of Overseers is an _ex officio_ member of the Faculty Senate and attends meetings when necessary.
+
+**C.4.f. Faculty Committees**
+
+Standing Committees shall include the Faculty Evaluation Committee (FEC) and the Academic Policy, Standards, and Instruction Committee (APSIC). These committees are important elements of faculty governance. They receive instructions from the Faculty Senate, and shall keep the Senate apprised of their work in a timely fashion.
+
+Standing committees shall have the responsibilities and authorities set forth in the committee descriptions below, together with such additional duties and responsibilities as may be assigned them by the Faculty Senate.
+
+A standing committee consists of two faculty members from each school and one member elected at-large by the Faculty Assembly, each with full voting power. Faculty Evaluation Committee members must be regular faculty on multiple-year contracts and shall not be eligible for promotion or contract renewal during their terms of office. The Academic Policy, Standards, and Instruction Committee shall have a student member with full voting power, selected by the Student Council. The VPAA and the registrar are _ex officio_ members of the Academic Policy, Standards, and Instruction Committee and attend meetings when necessary.
+
+The term of office for each faculty member serving on a standing committee (i.e. Senate, FEC, APSIC) shall be three years,\* normally with a turnover of approximately one-third (1/3) of the membership on each committee each year. If faculty members are unable to serve out the full 3-year terms on FEC due to an application by these faculty members for contract renewal, sabbatical, or promotion during their 3-year terms, then as an exception said faculty members may serve a 2-year term on the FEC.
+
+The term of office for each faculty member serving on a standing committee (i.e. Senate, FEC, and APSIC) shall normally be three years,\* with a turnover of approximately one-third (1/3) of the membership on each committee each year. In elections, priority for being included on the slate of candidates will go to faculty members who are able to serve 3-year terms.
+
+The faculty of each school shall establish its own procedure for selecting and removing its representatives to standing committees. School faculty who are members of the Faculty Assembly shall be eligible for selection. Members of standing committees shall regularly report back to their schools. In the last week of March, Committee chairs shall inform the Senate president of upcoming vacancies. The Senate president shall then inform the school deans of upcoming vacancies in the Senate, FEC, and APSIC so that nominations can be made and elections held in April.  Terms begin the following September.  The results shall be announced at the Faculty Assembly in May, at which time any at-large members can be elected.
+
+The Faculty Senate may appoint _ad hoc_ committees to help it discharge its functions or to perform periodic functions, and to engage with substantial changes that may affect the nature of the Institute. These may include, but are not limited to:
+
+- Salary and Benefits
+- Strategic Planning
+- Faculty Development
+- Faculty Handbook
+
+**C.4.g. Faculty Evaluation Committee**
+
+The Faculty Evaluation Committee shall review all faculty files of faculty applicants for contract renewal, promotion, and sabbatical leave. After ensuring that due process has been observed, the Committee shall make an independent recommendation based on the procedures outlined on pages 26-28.
+
+The Faculty Evaluation Committee shall review a faculty Annual Review file only when requested to do so by the faculty member in question, or by the respective school dean, or by the VPAA (see page 28).
+
+The Faculty Evaluation Committee may also evaluate and recommend changes to the current systems and policies governing faculty contracts. It also may evaluate and recommend changes to the process of evaluating faculty performance, with particular attention to any inequities that may arise as a result of separate school policies*.* Any such recommended changes shall first be approved by the Faculty Senate before forwarding to the VPAA.
+
+The Faculty Evaluation Committee shall conduct its deliberations in closed meetings. All proceedings of this Committee will respect the privacy of all individuals involved in any evaluation.
+
+**C.4.h. Academic Policy, Standards, and Instruction Committee**
+
+As described on page 4 of this Handbook, the formulation and administration of academic policies at the Middlebury Institute is a shared responsibility of the Institute Board of Overseers, the Middlebury Board of Trustees, the Middlebury provost and president, the VPAA, the school deans and associate deans, and the faculty.
+
+The Academic Policies, Standards, and Instruction Committee (APSIC) serves as the faculty committee charged with oversight of Part I of the MIIS _Policies and Standards Manual_ (PSM). Early in the spring semester, APSIC reviews Part I of the _PSM_ in light of its deliberations over the preceding year, recommending changes and amendments to the Faculty Senate and VPAA for action and approval. Those changes and amendments that are approved by the administration are then included in the new edition of the _PSM_, prepared during the summer for distribution to students at the beginning of the fall semester.
+
+In addition, APSIC:
+
+- evaluates and provides recommendations concerning proposed changes to the curriculum;
+- ensures compliance with academic policies and procedures;
+- deliberates on student grievances and appeals;
+- has at least two members serve on any Student Conduct Board dealing with an alleged student violation of academic standards or policies.
+
+APSIC reports its recommendations to the VPAAand the Senate for action and approval. In the case of curricular and programmatic proposals requiring further deliberation, APSIC consults further with the proposers before forwarding revised recommendations to the VPAA and Senate.
+
+**C.4.i. Salary and Benefits Committee (_ad hoc_)**
+
+When constituted by the Faculty Senate, the primary role of this committee is to review and examine the structure of faculty benefits and salaries and make recommendations to the VPAA. The Committee shall work closely with the Human Resources staff at MIIS, and the benefits and compensation manager in the Human Resources department at Middlebury in the discharge of its responsibilities. Specific tasks and responsibilities are assigned at the time of constitution.<span style="text-decoration:underline"></span>
+
+---
+
+\* Faculty members should not serve on the FEC while their own contract renewal, promotion, or sabbatical is being evaluated by the FEC. However, if an insufficient number of faculty members are able to serve on FEC without such a conflict for a full three years, then as an exception, faculty members may, 1\. when the issue precluding their service is contract renewal or promotion (during what would otherwise be the third year of their term), run for and serve on the FEC for a term of 2 consecutive years or 2\. when the issue precluding their service is an application for sabbatical (to be submitted during the third year of their term), run for and serve a 3-year term, but recuse themselves from deliberations over their own sabbatical applications.
+
+Approved by the Faculty Assembly, May 2018.
