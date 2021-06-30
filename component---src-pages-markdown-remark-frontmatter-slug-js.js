@@ -1,0 +1,2 @@
+(self.webpackChunkcollege_handbook=self.webpackChunkcollege_handbook||[]).push([[647],{5631:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return r}});var l=n(7294);function r(e){var t=e.data.markdownRemark,n=t.frontmatter,r=t.html;return l.createElement("div",null,l.createElement("h2",null,n.title),l.createElement("div",{dangerouslySetInnerHTML:{__html:r}}))}}}]);
+//# sourceMappingURL=component---src-pages-markdown-remark-frontmatter-slug-js.js.map
