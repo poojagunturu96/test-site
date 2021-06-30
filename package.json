@@ -10,6 +10,7 @@
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "cross-env GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
+    "deploy": "npm run build && gh-pages -d public -b site",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
@@ -33,5 +34,8 @@
     "react-icons": "^4.2.0",
     "react-use-flexsearch": "^0.1.1",
     "sass": "^1.32.11"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
